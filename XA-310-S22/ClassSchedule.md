@@ -4,7 +4,11 @@
 
 #### WEEK 1 (Online)
 - M	1/10
+  - First day of class - introduction, overview, syllabus, expectations, etc. 
 - W	1/12
+  - Before Class: 
+    - Read: [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
+  - 
 
 #### WEEK 2 (Online)
 
