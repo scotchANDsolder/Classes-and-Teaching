@@ -9,17 +9,17 @@ EMAIL: narulaab@msu.edu
 
 # Syllabus
 - [ Overview ](#overview)
-- [Course Modality](#coursemodality)
-- [Class Materials](#classMaterials)
-- Attendance
-- Assignments
-- Late Work
-- Grading
-- Ethics and Academic Integrity
-- Student Health and Wellness
-- Safe Learning Environment
-- Students with Disabilities
-- Mandatory Reporting of Abuse
+- [Course Modality](#course-modality)
+- [Class Materials](#class-materials)
+- [Attendance](#attendance)
+- [Assignments](#assignments)
+- [Late Work](#late-work)
+- [Grading](#grading)
+- [Ethics and Academic Integrity](#ethics-and-academic-integrity)
+- [Student Health and Wellness](#student-health-and-wellness)
+- [Safe Learning Environment](#safe-learning-environment)
+- [Students with Disabilities](#students-with-disabilities)
+- [Mandatory Reporting of Abuse](#mandatory-reporting-of-abuse)
 
 ***
 
