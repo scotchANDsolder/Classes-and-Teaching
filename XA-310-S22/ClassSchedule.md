@@ -9,13 +9,16 @@
   - Discuss: 
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
     - [What is JavaScript?](https://www.hackreactor.com/blog/what-is-javascript-used-for) 
-  - Setting up for this class: Text Editors, Managing your files etc. 
+  - Setting up: Text Editors, Managing your files, downloading p5.js libraries etc. 
   - Your very first Computer Program!    
 
 #### WEEK 2 (Online)
 
-- **M	1/17**: Recitation
+- **M	1/17**
+  - Read: [Welcome to Coding!](https://happycoding.io/tutorials/p5js/welcome-to-coding)
+  - Variables & Functions 
 - **W	1/19**
+  - Conditional Statements 
 
 #### WEEK 3 (Online)
 - **M	1/24**: Recitation 
