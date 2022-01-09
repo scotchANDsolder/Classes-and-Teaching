@@ -1,11 +1,11 @@
 # XA 310: Computational Thinking (Spring 2022)
 M/W 10:20 AM – 12:10 PM | Course credits: 3
 
-INSTRUCTOR: Abhishek Narula
+**INSTRUCTOR:** Abhishek Narula
 
-OFFICE HOURS: Tues 10:00 AM to 12:00 PM (Zoom link on D2L)
+**OFFICE HOURS:** Tues 10:00 AM to 12:00 PM (Zoom link on D2L)
 
-EMAIL: narulaab@msu.edu
+**EMAIL:** narulaab@msu.edu
 
 Key Links:
 - [**Class Schedule**](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/ClassSchedule.md) 
