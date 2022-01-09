@@ -9,6 +9,9 @@ M/W 10:20 AM – 12:10 PM | Course credits: 3
 
 Key Links:
 - [**Class Schedule**](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/ClassSchedule.md) 
+- [**Assignments](url)
+- [**Resources**]
+- [**Documents](url)
 
 # Syllabus
 - [ Overview ](#overview)
