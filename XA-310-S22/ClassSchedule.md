@@ -9,29 +9,36 @@
   - Discuss: 
     - [Computational Thinking](https://www.cs.cmu.edu/afs/cs/usr/wing/www/publications/Wing06.pdf)  by Jeannette M. Wing
     - [What is JavaScript?](https://www.hackreactor.com/blog/what-is-javascript-used-for) 
-  - Setting up: Text Editors, Managing your files, downloading p5.js libraries etc. 
-  - Your very first Computer Program!    
+  - [Setting up](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/Documents/settingup.md): Text Editors, Managing your files, etc. 
+  -[Your very first Computer Program!](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/Documents/firstprogram.md)    
 
 #### WEEK 2 (Online)
 
 - **M	1/17**
-  - Read: [Welcome to Coding!](https://happycoding.io/tutorials/p5js/welcome-to-coding)
-  - Variables & Functions 
+  - Variables & Conditionals
 - **W	1/19**
-  - Conditional Statements 
+  - Variables & Conditionals
+  - Review: Cake Baking Problem
 
 #### WEEK 3 (Online)
 - **M	1/24**: Recitation 
 - **W	1/26**
+  - Functions
+  
 
 #### WEEK 4 
 
 - **M	1/31**: Recitation (Online)
 - **W	2/2**
+  - Arrays & Loops
+  - Introduce: Assignment #1
 
 #### WEEK 5
 - **M	2/7**: Recitation (Online)
 - **W	2/9**
+ - Assignment #1 DUE
+ - JavaScript Objects e.g. Math() & Date()
+ - Review Assigment 1
 
 #### WEEK 6
 - **M	2/14**: Recitation (Online)
