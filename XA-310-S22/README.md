@@ -9,7 +9,7 @@ EMAIL: narulaab@msu.edu
 
 # Syllabus
 - [ Overview ](#overview)
-- Course Modality
+- [Course Modality](#coursemodality)
 - Class Materials
 - Attendance
 - Assignments
@@ -21,45 +21,49 @@ EMAIL: narulaab@msu.edu
 - Students with Disabilities
 - Mandatory Reporting of Abuse
 
+***
 
 ### Overview
-What Is Computational Thinking?
-
-
+*What Is Computational Thinking*?
 
 From Wikipedia:
 
-By one of the many definitions, computational thinking is the thought process involved in formulating a problem and expressing its solution(s) in such a way that a computer---human or machine---can effectively carry out.
+> By one of the many definitions, computational thinking is the thought process involved in formulating a problem and expressing its solution(s) in such a way that a computer---human or machine---can effectively carry out.
 
-Another characterization of computational thinking is an iterative process based on three stages
+ Another characterization of computational thinking is an iterative process based on three stages:
 
-Abstraction: Problem formulation;
-Automation: Solution expression;
-Analyses: Solution execution and evaluation.
+- Abstraction: Problem formulation;
+- Automation: Solution expression;
+- Analyses: Solution execution and evaluation.
+
 And a quote attributed to someone named "John Johnson":
 
-First, solve the problem. Then, write the code.
+> First, solve the problem. Then, write the code.
+
+In other words...*Work the solution out on paper in steps, then start writing the code for it. Don't get tangled in the code and software design.*
 
 Computational thinking is a method for problem solving that uses ideas fundamental to computing, such as reducing complex ideas to simpler tasks, collecting and analyzing data, and providing detailed instructions for performing tasks that can be applied broadly to future problems.
 
 The fundamental elements of this process include:
 
-Decomposition - breaking down a complex problem into smaller parts.
-Pattern Recognition - finding regularities, shared traits, similarities, or irregularities in sets of data.
-Abstraction - reducing complexities or synthesizing facts gathered from data into a broader, more general idea.
-Algorithims - creating a set or rules or instructions for solving the problem.
-While this course will use computer programs, it is not necessarily a computer programming class. Computational thinking is conceptualization, and starts before writing any code.
+- **Decomposition** - breaking down a complex problem into smaller parts.
+- **Pattern Recognition** - finding regularities, shared traits, similarities, or irregularities in sets of data.
+- **Abstraction** - reducing complexities or synthesizing facts gathered from data into a broader, more general idea.
+- **Algorithims** - creating a set or rules or instructions for solving the problem.
+
+While this course will use computer programs, it is not necessarily a computer programming class. Computational thinking is **conceptualization**, and starts before writing any code.
 
 That said, we will use computers and programming languages to express some of these concepts. We will also explore how computers work and operate, how various computing languages differ and why different ones are used for different purposes, and to begin to think about how to interact with computers in ways that combine things that computers are good at with things that humans are good at while understanding the limitations of both.
 
-Course Modality
+### Course Modality
+
 This course is listed as in-person, but will be a combination of live and remote learning days.
 
 Each Monday will be a 'recitation' day; I will be available via Zoom during class time (and most likely for the majority of the day) for office hours, questions, feedback, and help with work. Attendance will NOT be required on Mondays
 
 Each Wednesday will be in-person and on campus. These days will when student presentations occur, and will allow for in-person meeting and discussion. Attendance WILL be required on Wednesdays
 
-Class Materials
+### Class Materials
 There is no required text for this course; any readings will be provided as needed. Course materials will be available as follows:
 
 The course syllabus, lecture materials, class schedules, and assignments overviews will be available on the course website
@@ -69,14 +73,14 @@ You will require access to a computer - Mac or PC - with internet access and the
 
 Finally, you must ensure that you have access to your files at all times in all places, and to maintain backups. Use a flash drive, cloud storage (Google Drive, Dropbox, One Drive), or some combination to ensure that you don't lose your work. Losing your files is not a valid excuse in this day and age of ubiquitous online storage.
 
-Attendance
+### Attendance
 To be successful in this class you must participate, read, and write code and markup.
 
 It is expected that students will attend class in-person regularly. However, sometimes, real life interferes. As such, students can miss two course meetings with no grading penalty. Beyond two course absences, however, 5% will be deducted from your class participation grade for each missed class (without a very good excuse, preferably pre-arranged).
 
 Absences due to Covid - sickness, having to be isolated based on exposure, etc. - will be handled separately and will not count against your absence total.
 
-Assignments
+### Assignments
 Course assignments will focus on programming tasks well as conceptual work that expresses ideas or demonstrates understanding in writing or other media.
 
 Programming / Writing Assignments: 8 projects, 1200 points total.
