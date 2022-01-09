@@ -7,7 +7,8 @@ OFFICE HOURS: Tues 10:00 AM to 12:00 PM (Zoom link on D2L)
 
 EMAIL: narulaab@msu.edu
 
-[**Class Schedule**](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/ClassSchedule.md)
+Key Links:
+- [**Class Schedule**](https://github.com/scotchANDsolder/Classes-and-Teaching/blob/main/XA-310-S22/ClassSchedule.md) 
 
 # Syllabus
 - [ Overview ](#overview)
